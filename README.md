@@ -1,0 +1,2 @@
+# tradelog-app
+Trading Journal
